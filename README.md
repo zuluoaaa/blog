@@ -1,5 +1,6 @@
 <h1>just a blog</h1>
 <ul>
+    <li><a href="https://github.com/zuluoaaa/blog/issues/7">开发遇到棘手的难题该怎么办？</a></li>
    <li><a href="https://github.com/zuluoaaa/blog/issues/6">编译原理：如何从0写一个js解释器</a></li>
   <li><a href="https://github.com/zuluoaaa/blog/issues/1">基于经过时间的帧渲染</a></li>
   <li><a href="https://github.com/zuluoaaa/blog/issues/2">使用归一化处理动画同步</a></li>
